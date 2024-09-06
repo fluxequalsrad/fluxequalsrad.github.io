@@ -5,7 +5,6 @@ I've spent the last decade working in data analysis and business intelligence wh
 <br/>
 <br/>
 ## Projects
-<br/>
 ### Machine Learning - Cycling Predictor
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/f4b6368d08b5413cf3201b91f460cf26632e031c/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
 
@@ -20,6 +19,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 **Tools:** <br/> R, Shiny, Plotly
 
 **Description:** <br/> This project used statistical analysis techniques to determine which player from the Richmond Football Club could be considered our greatest player of all time. This involved using a comprehensive set of player statistics to rank players based on where their totals and averages fell on each metric's distribution. Data was collected, normalised and weighted before the ranking was conducted to ensure the accuracy of the results. Shiny and Plotly were then used to create an interactive visualisation, enabling the user to compare players based on the statistics that matter to them. 
+
 <br/>
 ### Image Classification - Food Bowl
 
@@ -31,7 +31,6 @@ The process involves periodically capturing images of his bowl with a webcam and
 <br/>
 <br/>
 ## Other Builds
-<br/>
 ### Web Scraper - Hamish and Andy Merch
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/01811f1b9618b9d5edc61ceb056bde0c113f9b86/Product%20Web%20Scraper%20-%20Hamish%20and%20Andy.ipynb)
 
