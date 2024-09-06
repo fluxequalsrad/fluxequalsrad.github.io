@@ -5,6 +5,14 @@ I've spent the last decade working in data analysis and business intelligence wh
 
 ## Projects
 
+### Machine Learning - Cycling Predictor
+[Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/f4b6368d08b5413cf3201b91f460cf26632e031c/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
+
+**Tools:** <br/> Python, scikit-learn, xgboost
+
+**Description:** <br/> I don't want to say I'm a fair weather cyclist but my days of riding through heavy rain or going up against brutal headwinds are reaching an end. To help plan my rides better, I trained a number of machine learning models on my personal cycling data extracted from Strava, as well as on weather data pulled from Australia’s Bureau of Meteorology. The model outputs the likelihood of me going cycling on any given day based on the upcoming weather forecast, helping me choose the best days to ride. The XGBoostClassifier algorithm was found to perform the best for this task, with the results improving further after tuning the model's hyperparameters using GridSearchCV. It was then tested on the most recent weather forecast for Melbourne.
+
+
 ### Statistical Analysis - Richmond Player Performance
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/main/Richmond%20Player%20Performance.ipynb)      [Shiny Visualisation](https://fluxequalsrad.shinyapps.io/shiny/)
 
@@ -28,4 +36,4 @@ The process involves periodically capturing images of his bowl with a webcam and
 
 **Tools:** <br/> Python, Beautiful Soup
 
-**Description:** <br/> During the Christmas holidays, my sister expressed her frustration about never being able to buy a specific t-shirt produced by Australian radio duo Hamish and Andy as it was always out of stock. To help her catch when new stock became available, I decided to write the following Python script that uses the BeautifulSoup library to parse the sites HTML and return a list of items and their availability status.
+**Description:** <br/> Over the Christmas holidays, my sister expressed her frustration about never being able to buy a specific t-shirt produced by Australian radio duo Hamish and Andy as it was always out of stock. To help her catch when new stock became available, I decided to write the following Python script that uses the BeautifulSoup library to parse the sites HTML and return a list of items and their availability status.
