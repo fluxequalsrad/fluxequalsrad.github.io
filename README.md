@@ -5,6 +5,17 @@ I've spent the last decade working in data analysis and business intelligence wh
 <br/>
 <br/>
 ## Projects
+
+### Natural Language Processing for Album Genre Prediction
+[Data Collection and Analysis](https://nbviewer.org/github/fluxequalsrad/pitchfork-reviews/blob/d72c138ad2ebb42b96aca2e3748affc746addb12/Pitchfork%20Webscraper%20and%20Analysis.ipynb) <br/>
+[NLP and Modelling]
+
+**Tools:** <br/> Python, NLTK, scikit-learn, plotly
+
+**Description:** <br/> In this project, I extract and analyse album reviews published on [Pitchfork](https://pitchfork.com) using natural language processing (NLP) techniques to explore how descriptive language varies across music genres. Finding that different genres are pre-disposed to a unique set of terminology and descriptors, I then train a classification model to predict the genre of unseen reviews. The initial model only obtains an accuracy of 58% but by conducting feature engineering and applying the Term Frequency - Inverse Document Frequency (TF-IDF) vectorisation to each genre in isolation, I manage to increase this score to 86%.
+
+
+<br/>
 ### Machine Learning - Cycling Predictor
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/f4b6368d08b5413cf3201b91f460cf26632e031c/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
 
