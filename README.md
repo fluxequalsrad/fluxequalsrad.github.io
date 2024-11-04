@@ -8,7 +8,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 
 ### Natural Language Processing for Album Genre Prediction
 [Data Collection and Analysis](https://nbviewer.org/github/fluxequalsrad/pitchfork-reviews/blob/d72c138ad2ebb42b96aca2e3748affc746addb12/Pitchfork%20Webscraper%20and%20Analysis.ipynb) <br/>
-[NLP and Modelling]
+[NLP and Modelling](https://nbviewer.org/github/fluxequalsrad/pitchfork-reviews/blob/d72c138ad2ebb42b96aca2e3748affc746addb12/Pitchfork%20Natural%20Language%20Processing%20and%20Modelling.ipynb)
 
 **Tools:** <br/> Python, NLTK, scikit-learn, plotly
 
@@ -25,7 +25,8 @@ I've spent the last decade working in data analysis and business intelligence wh
 
 <br/>
 ### Statistical Analysis - Richmond Player Performance
-[Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/main/Richmond%20Player%20Performance.ipynb)      [Shiny Visualisation](https://fluxequalsrad.shinyapps.io/shiny/)
+[Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/main/Richmond%20Player%20Performance.ipynb)  <br/>
+[Shiny Visualisation](https://fluxequalsrad.shinyapps.io/shiny/)
 
 **Tools:** <br/> R, Shiny, Plotly
 
@@ -41,7 +42,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 The process involves periodically capturing images of his bowl with a webcam and applying image classification techniques to identify when his food has been eaten. I plan on using Python alongside Pytorch to build and train the classification model, enabling it to distinguish between images of a full and empty bowl, and send updates on my cat's eating habits. This project is currently in the data collection phase.
 <br/>
 <br/>
-## Other Builds
+## Other Scripts
 ### Web Scraper - Hamish and Andy Merch
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/01811f1b9618b9d5edc61ceb056bde0c113f9b86/Product%20Web%20Scraper%20-%20Hamish%20and%20Andy.ipynb)
 
