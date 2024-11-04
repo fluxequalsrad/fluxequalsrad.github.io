@@ -14,8 +14,8 @@ I've spent the last decade working in data analysis and business intelligence wh
 
 **Description:** <br/> In this project, I extract and analyse album reviews published on [Pitchfork](https://pitchfork.com) using natural language processing (NLP) techniques to explore how descriptive language varies across music genres. Finding that different genres are pre-disposed to a unique set of terminology and descriptors, I then train a classification model to predict the genre of unseen reviews. The initial model only obtains an accuracy of 58% but by conducting feature engineering and applying the Term Frequency - Inverse Document Frequency (TF-IDF) vectorisation to each genre in isolation, I manage to increase this score to 86%.
 
-
 <br/>
+
 ### Machine Learning - Cycling Predictor
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/f4b6368d08b5413cf3201b91f460cf26632e031c/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
 
@@ -24,6 +24,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 **Description:** <br/> I don't want to say I'm a fair weather cyclist but my days of riding through heavy rain or going up against brutal headwinds are reaching an end. To help plan my rides better, I trained a number of machine learning models on my personal cycling data extracted from Strava, as well as on weather data pulled from Australia’s Bureau of Meteorology. The model outputs the likelihood of me going cycling on any given day based on the upcoming weather forecast, helping me choose the best days to ride. The XGBoostClassifier algorithm was found to perform the best for this task, with the results improving further after tuning the model's hyperparameters using GridSearchCV. It was then tested on the most recent weather forecast for Melbourne.
 
 <br/>
+
 ### Statistical Analysis - Richmond Player Performance
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/main/Richmond%20Player%20Performance.ipynb)  <br/>
 [Shiny Visualisation](https://fluxequalsrad.shinyapps.io/shiny/)
@@ -33,6 +34,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 **Description:** <br/> This project used statistical analysis techniques to determine which player from the Richmond Football Club could be considered our greatest player of all time. This involved using a comprehensive set of player statistics to rank players based on where their totals and averages fell on each metric's distribution. Data was collected, normalised and weighted before the ranking was conducted to ensure the accuracy of the results. Shiny and Plotly were then used to create an interactive visualisation, enabling the user to compare players based on the statistics that matter to them. 
 
 <br/>
+
 ### Image Classification - Food Bowl
 
 **Tools:** <br/> Python, Pytorch, Scikit Learn
@@ -42,6 +44,7 @@ I've spent the last decade working in data analysis and business intelligence wh
 The process involves periodically capturing images of his bowl with a webcam and applying image classification techniques to identify when his food has been eaten. I plan on using Python alongside Pytorch to build and train the classification model, enabling it to distinguish between images of a full and empty bowl, and send updates on my cat's eating habits. This project is currently in the data collection phase.
 <br/>
 <br/>
+
 ## Other Scripts
 ### Web Scraper - Hamish and Andy Merch
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/01811f1b9618b9d5edc61ceb056bde0c113f9b86/Product%20Web%20Scraper%20-%20Hamish%20and%20Andy.ipynb)
