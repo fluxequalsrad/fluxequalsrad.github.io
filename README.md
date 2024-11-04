@@ -16,8 +16,8 @@ I've spent the last decade working in data analysis and business intelligence wh
 
 <br/>
 
-### Machine Learning - Cycling Predictor
-[Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/f4b6368d08b5413cf3201b91f460cf26632e031c/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
+### Machine Learning for Identifying Cycling Days
+[Data Wrangling and Analysis Notebook](https://nbviewer.org/github/fluxequalsrad/Machine-Learning-Cycling-Predictor/blob/2998fc19126b32112443918e19d82ba648025cd0/Machine%20Learning%20-%20Cycling%20Predictions.ipynb)
 
 **Tools:** <br/> Python, scikit-learn, xgboost
 
@@ -26,12 +26,12 @@ I've spent the last decade working in data analysis and business intelligence wh
 <br/>
 
 ### Statistical Analysis - Richmond Player Performance
-[Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/main/Richmond%20Player%20Performance.ipynb)  <br/>
+[Data Wranglng and Analysis Notebook](https://nbviewer.org/github/fluxequalsrad/Richmond-Player-Performance/blob/ee0f97a17485393d61ec7ca3bfcc77ff895a747d/Richmond%20Player%20Performance.ipynb)  <br/>
 [Shiny Visualisation](https://fluxequalsrad.shinyapps.io/shiny/)
 
 **Tools:** <br/> R, Shiny, Plotly
 
-**Description:** <br/> This project used statistical analysis techniques to determine which player from the Richmond Football Club could be considered our greatest player of all time. This involved using a comprehensive set of player statistics to rank players based on where their totals and averages fell on each metric's distribution. Data was collected, normalised and weighted before the ranking was conducted to ensure the accuracy of the results. Shiny and Plotly were then used to create an interactive visualisation, enabling the user to compare players based on the statistics that matter to them. 
+**Description:** <br/> This project used statistical analysis techniques to determine which player from the Richmond Football Club could be considered our greatest player of all time. This involved using a comprehensive set of player statistics to rank players based on where their totals and averages fell on each metric's distribution. Data was collected, normalised and weighted before the ranking was conducted to ensure the accuracy of the results. Shiny and Plotly were then used to create an interactive visualisation, enabling the user to compare players based on the statistics of their choice. 
 
 <br/>
 
@@ -47,6 +47,7 @@ The process involves periodically capturing images of his bowl with a webcam and
 
 ## Other Scripts
 ### Web Scraper - Hamish and Andy Merch
+[Script](https://github.com/fluxequalsrad/product-web-scraper/blob/0f415a4c4157826028c769ceb3c09841fb8d6fbb/main.py)
 [Notebook](https://github.com/fluxequalsrad/fluxequalsrad.github.io/blob/01811f1b9618b9d5edc61ceb056bde0c113f9b86/Product%20Web%20Scraper%20-%20Hamish%20and%20Andy.ipynb)
 
 **Tools:** <br/> Python, Beautiful Soup
